@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pkt117/movie_app_practice/static/css/main.47ca6d61.chunk.css",
-    "main.js": "/pkt117/movie_app_practice/static/js/main.2cf9c3b1.chunk.js",
-    "main.js.map": "/pkt117/movie_app_practice/static/js/main.2cf9c3b1.chunk.js.map",
-    "runtime-main.js": "/pkt117/movie_app_practice/static/js/runtime-main.4aa8a2a2.js",
-    "runtime-main.js.map": "/pkt117/movie_app_practice/static/js/runtime-main.4aa8a2a2.js.map",
-    "static/js/2.0b14de34.chunk.js": "/pkt117/movie_app_practice/static/js/2.0b14de34.chunk.js",
-    "static/js/2.0b14de34.chunk.js.map": "/pkt117/movie_app_practice/static/js/2.0b14de34.chunk.js.map",
-    "index.html": "/pkt117/movie_app_practice/index.html",
-    "static/css/main.47ca6d61.chunk.css.map": "/pkt117/movie_app_practice/static/css/main.47ca6d61.chunk.css.map",
-    "static/js/2.0b14de34.chunk.js.LICENSE.txt": "/pkt117/movie_app_practice/static/js/2.0b14de34.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_practice/static/css/main.47ca6d61.chunk.css",
+    "main.js": "/movie_app_practice/static/js/main.2cf9c3b1.chunk.js",
+    "main.js.map": "/movie_app_practice/static/js/main.2cf9c3b1.chunk.js.map",
+    "runtime-main.js": "/movie_app_practice/static/js/runtime-main.c16a127b.js",
+    "runtime-main.js.map": "/movie_app_practice/static/js/runtime-main.c16a127b.js.map",
+    "static/js/2.0b14de34.chunk.js": "/movie_app_practice/static/js/2.0b14de34.chunk.js",
+    "static/js/2.0b14de34.chunk.js.map": "/movie_app_practice/static/js/2.0b14de34.chunk.js.map",
+    "index.html": "/movie_app_practice/index.html",
+    "static/css/main.47ca6d61.chunk.css.map": "/movie_app_practice/static/css/main.47ca6d61.chunk.css.map",
+    "static/js/2.0b14de34.chunk.js.LICENSE.txt": "/movie_app_practice/static/js/2.0b14de34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4aa8a2a2.js",
+    "static/js/runtime-main.c16a127b.js",
     "static/js/2.0b14de34.chunk.js",
     "static/css/main.47ca6d61.chunk.css",
     "static/js/main.2cf9c3b1.chunk.js"
